@@ -1,0 +1,109 @@
+{
+    "windbots": [
+      {
+        "name": "悠悠",
+        "deck": "MokeyMokey",
+        "dialog": "mokey.zh-CN"
+      },
+      {
+        "name": "悠悠王",
+        "deck": "MokeyMokeyKing",
+        "dialog": "mokey.zh-CN"
+      },
+	        {
+        "name": "星因",
+        "deck": "SpTellarknight",
+        "dialog": "swordsman.zh-CN"
+      },
+      {
+        "name": "龙骑星爆",
+        "deck": "Dragunity",
+        "dialog": "swordsman.zh-CN"
+      },
+      {
+        "name": "8星同调卡组",
+        "deck": "Level VIII",
+        "dialog": "swordsman.zh-CN"
+      },
+      {
+        "name": "五阶超量",
+        "deck": "Rank V",
+        "dialog": "swordsman.zh-CN"
+      },
+      {
+        "name": "四阶水XYZ-龙神鲨",
+        "deck": "Toadally Awesome",
+        "dialog": "cirno.zh-CN"
+      },
+      {
+        "name": "妖仙兽",
+        "deck": "Yosenju",
+        "dialog": "near.zh-CN"
+      },
+      {
+        "name": "机壳",
+        "deck": "Qliphort",
+        "dialog": "near.zh-CN"
+      },
+      {
+        "name": "永远之魂-削血",
+        "deck": "Burn Dialog",
+        "dialog": "soul.zh-CN"
+      },
+      {
+        "name": "永远之魂-青蛙",
+        "deck": "Frog Dialog",
+        "dialog": "soul.zh-CN"
+      },
+      {
+        "name": "永远之魂-荷鲁斯",
+        "deck": "Horus Dialog",
+        "dialog": "soul.zh-CN"
+      },
+      {
+        "name": "神威",
+        "deck": "PureWinds",
+        "dialog": "zh-CN"
+      },
+      {
+        "name": "光道影依",
+        "deck": "LightswornShaddoldinosour",
+        "dialog": "kiwi.zh-TW"
+      },
+      {
+        "name": "燃血鬥士",
+        "deck": "ChainBurn Dialog",
+        "dialog": "kiwi.zh-TW"
+      },
+      {
+        "name": "黑羽",
+        "deck": "Blackwing",
+        "dialog": "swordsman.zh-CN"
+      },
+      {
+        "name": "电子龙",
+        "deck": "CyberDragon",
+        "dialog": "swordsman.zh-CN"
+      },
+      {
+        "name": "入魔",
+        "deck": "Evilswarm",
+        "dialog": "swordsman.zh-CN"
+      },
+      {
+        "name": "守墓",
+        "deck": "Gravekeeper",
+        "dialog": "swordsman.zh-CN"
+      },
+      {
+        "name": "光道",
+        "deck": "Lightsworn",
+        "dialog": "swordsman.zh-CN"
+      },
+      {
+        "name": "影灵衣",
+        "deck": "Nekroz",
+        "dialog": "swordsman.zh-CN"
+      }
+    ]
+}

@@ -1,0 +1,215 @@
+{
+  "protocol_version" : "0.0.2",
+  "configuration" : {
+    "version" : "5.18.0.240 (Debian 5.18.0.240+dfsg-3 Wed Apr 17 16:37:36 UTC 2019)",
+    "tlc" : "__thread",
+    "sigsgev" : "altstack",
+    "notifications" : "epoll",
+    "architecture" : "amd64",
+    "disabled_features" : "none",
+    "smallconfig" : "disabled",
+    "bigarrays" : "disabled",
+    "softdebug" : "enabled",
+    "interpreter" : "enabled",
+    "llvm_support" : "disabled",
+    "suspend" : "preemptive"
+  },
+  "memory" : {
+    "minor_gc_time" : "88942",
+    "major_gc_time" : "0",
+    "minor_gc_count" : "9",
+    "major_gc_count" : "0",
+    "major_gc_time_concurrent" : "0"
+ },
+  "threads" : [
+ {
+    "is_managed" : false,
+    "crashed" : false,
+    "managed_thread_ptr" : "0x0",
+    "native_thread_id" : "0x7fe4af5cc780",
+    "thread_info_addr" : "0x0",
+    "thread_name" : "mono",
+    "ctx" : {
+      "IP" : "0x7fe4af7ba00c",
+      "SP" : "0x7ffee9d204f0",
+      "BP" : "(nil)"
+  },
+    "managed_frames" : [
+  {
+      "native_address" : "unregistered"
+   }
+
+  ],
+  "unmanaged_frames" : [
+ {
+    "native_address" : "unregistered"
+  }
+
+ ]
+},
+{
+  "is_managed" : false,
+  "crashed" : false,
+  "managed_thread_ptr" : "0x0",
+  "native_thread_id" : "0x7fe4a7fff700",
+  "thread_info_addr" : "0x0",
+  "thread_name" : "Thread Pool I/O",
+  "ctx" : {
+    "IP" : "0x7fe4af6bf819",
+    "SP" : "0x7fe4a7ffec70",
+    "BP" : "0x2"
+ },
+  "unmanaged_frames" : [
+ {
+    "native_address" : "unregistered"
+  }
+
+ ]
+},
+{
+  "is_managed" : false,
+  "crashed" : false,
+  "managed_thread_ptr" : "0x0",
+  "native_thread_id" : "0x7fe4a7bfd700",
+  "thread_info_addr" : "0x0",
+  "thread_name" : "Thread Pool I/O",
+  "ctx" : {
+    "IP" : "0x7fe4af7ba3f9",
+    "SP" : "0x7fe4a7bfcb70",
+    "BP" : "(nil)"
+ },
+  "unmanaged_frames" : [
+ {
+    "native_address" : "unregistered"
+  }
+
+ ]
+},
+{
+  "is_managed" : false,
+  "crashed" : true,
+  "managed_thread_ptr" : "0x0",
+  "native_thread_id" : "0x7fe4a6e7b700",
+  "thread_info_addr" : "0x0",
+  "thread_name" : "mono",
+  "ctx" : {
+    "IP" : "0x7fe4af6087bb",
+    "SP" : "0x7fe4a6e79c60",
+    "BP" : "0x4"
+ },
+  "managed_frames" : [
+ {
+    "native_address" : "unregistered"
+  }
+
+ ],
+"unmanaged_frames" : [
+{
+  "native_address" : "unregistered"
+ }
+
+]
+},
+{
+"is_managed" : false,
+"crashed" : false,
+"managed_thread_ptr" : "0x0",
+"native_thread_id" : "0x7fe4a7406700",
+"thread_info_addr" : "0x0",
+"thread_name" : "Thread Pool Wor",
+"ctx" : {
+  "IP" : "0x7fe4af7bca82",
+  "SP" : "0x7fe4a7405c60",
+  "BP" : "0x55595b45ef48"
+},
+"unmanaged_frames" : [
+{
+  "native_address" : "unregistered"
+ }
+
+]
+},
+{
+"is_managed" : false,
+"crashed" : false,
+"managed_thread_ptr" : "0x0",
+"native_thread_id" : "0x7fe4ad37e700",
+"thread_info_addr" : "0x0",
+"thread_name" : "Finalizer",
+"ctx" : {
+  "IP" : "0x7fe4af7bc896",
+  "SP" : "0x7fe4ad37dc80",
+  "BP" : "0x55595b45e640"
+},
+"unmanaged_frames" : [
+{
+  "native_address" : "unregistered"
+ }
+
+]
+},
+{
+"is_managed" : false,
+"crashed" : false,
+"managed_thread_ptr" : "0x0",
+"native_thread_id" : "0x7fe4a7dfe700",
+"thread_info_addr" : "0x0",
+"thread_name" : "Thread Pool Wor",
+"ctx" : {
+  "IP" : "0x7fe4af7bca82",
+  "SP" : "0x7fe4a7dfdc60",
+  "BP" : "0x55595b45ef48"
+},
+"unmanaged_frames" : [
+{
+  "native_address" : "unregistered"
+ }
+
+]
+},
+{
+"is_managed" : false,
+"crashed" : false,
+"managed_thread_ptr" : "0x0",
+"native_thread_id" : "0x7fe4a79fc700",
+"thread_info_addr" : "0x0",
+"thread_name" : "Timer-Scheduler",
+"ctx" : {
+  "IP" : "0x7fe4af7ba3f9",
+  "SP" : "0x7fe4a79faf90",
+  "BP" : "(nil)"
+},
+"managed_frames" : [
+{
+  "native_address" : "unregistered"
+ }
+
+],
+"unmanaged_frames" : [
+{
+"native_address" : "unregistered"
+}
+
+]
+},
+{
+"is_managed" : false,
+"crashed" : false,
+"managed_thread_ptr" : "0x0",
+"native_thread_id" : "0x7fe4a70ff700",
+"thread_info_addr" : "0x0",
+"thread_name" : "Thread Pool Wor",
+"ctx" : {
+"IP" : "0x7fe4af7bca82",
+"SP" : "0x7fe4a70fec60",
+"BP" : "0x55595b45ef48"
+},
+"unmanaged_frames" : [
+{
+"native_address" : "unregistered"
+}
+
+]
+}
+]
+}
